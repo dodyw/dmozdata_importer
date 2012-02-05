@@ -132,6 +132,6 @@
     }
 
     print "<p>DONE.</p>";
-    print "<p>Go to <a href='../admin/link.php'>admin panel</a>.</p>";    
+    print "<p>The next step is to <a href='../admin/link.php?act=update_number_of_links'>update number of links</a> in admin panel or you may want to <a href='index.php'>import other listing files</a>.</p>";    
   }
 ?>
