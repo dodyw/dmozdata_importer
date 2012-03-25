@@ -108,8 +108,8 @@
 
       $x = explode("\t", $lines[$i]);
       $id    = $x[0];
-      $title = $x[1];
-      $url   = $x[2];
+      $url   = $x[1];
+      $title = $x[2];
       $description = $x[3];
 
       // save
